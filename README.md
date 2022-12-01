@@ -1,0 +1,2 @@
+# multisampler
+Multinomial sampler trick
